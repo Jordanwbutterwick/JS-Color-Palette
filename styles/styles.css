@@ -1,0 +1,13 @@
+.content {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 99vw;
+  height: 100%;
+  align-items: center;
+}
+
+.colours {
+  height: 50px;
+  width: 50px;
+  border: black solid 1px;
+}
